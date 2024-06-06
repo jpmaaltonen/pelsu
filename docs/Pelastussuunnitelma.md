@@ -870,7 +870,7 @@ Jos on pakko mennä ulos, käytä tiivistä, ihon peittävää asua, esimerkiksi
 
 **Lisäohjeet**
 
-Lisäohjeita saat kaupunkisi pelastusviranomaisilta, tiedotusvälineistä sekä Yleis-radion teksti-TV:n sivulta 867. Tietoa saat myös Säteilyturvakeskuksen Internet-sivuilta osoitteesta [www.stuk.fi](www.stuk.fi) ja pelastustoimen sivuilta [www.pelastustoimi.fi](www.pelastustoimi.fi).
+Lisäohjeita saat kaupunkisi pelastusviranomaisilta, tiedotusvälineistä sekä Yleis-radion teksti-TV:n sivulta 867. Tietoa saat myös Säteilyturvakeskuksen Internet-sivuilta osoitteesta [stuk.fi](https://stuk.fi) ja pelastustoimen sivuilta [pelastustoimi.fi](https://pelastustoimi.fi).
 
 **Annosnopeus yli 100 µSv/h**
 
