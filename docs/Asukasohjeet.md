@@ -1,3 +1,3 @@
 ![Piiluvaranta](_assets/asukas.jpg)
 
-[Takaisin](index)
+[Takaisin](pelsu)

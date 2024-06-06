@@ -368,4 +368,4 @@ Jos kiinteistössä ei ole väestönsuojaa, voidaan suojautua yleiseen väestön
 
 - Sähkökatkon jatkuessa pidempään varaudu etenkin talvisaikaan lämpimin vaattein sekä tarvittaessa kotivaran avulla. Kotivaran ohje löytyy  liitteistä.
 
-[Takaisin](index)
+[Takaisin](pelsu)

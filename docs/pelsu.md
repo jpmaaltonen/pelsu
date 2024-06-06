@@ -12,7 +12,7 @@ Tämä pelastussuunnitelma täyttää kaikki pelastuslain ja valtioneuvoston ase
 
 ---
 
-[Pelastussuunnitelma](Pelastussuunnitelma)
+[Pelastussuunnitelma](pelsu)
 
 [Asukasohjeet](Asukasohjeet)
 

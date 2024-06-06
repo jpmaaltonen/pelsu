@@ -18,107 +18,107 @@ Tässä pelastussuunnitelmassa on 42 sivua.
 
 [1 Johdanto](#1-johdanto)
 
-[2 Lainsäädäntö]
+[2 Lainsäädäntö](#2-lainsäädäntö)
 
-[3 Kohteen perustiedot]
+[3 Kohteen perustiedot](#3-kohteen-perustiedot)
 
-[3.1 Perustiedot]
+[3.1 Perustiedot](#31-----perustiedot)
 
-[3.2 Organisaatio]
+[3.2 Organisaatio](#32-----organisaatio)
 
-[3.3 Muut tiedot]
+[3.3 Muut tiedot](#33-----muut-tiedot)
 
-[4 Tärkeät yhteystiedot ja numerot]
+[4 Tärkeät yhteystiedot ja numerot](#4-tärkeät-yhteystiedot-ja-numerot)
 
-[4.1 Tärkeät yhteystiedot]
+[4.1 Tärkeät yhteystiedot](#41-----tärkeät-yhteystiedot)
 
-[5 Turvallisuusjärjestelyt]
+[5 Turvallisuusjärjestelyt](#5-turvallisuusjärjestelyt)
 
-[5.1 Paloturvallisuus]
+[5.1 Paloturvallisuus](#51-----paloturvallisuus)
 
-[5.1.1 Poistumistiet]
+[5.1.1 Poistumistiet](#511------poistumistiet)
 
-[6 Riskit]
+[6 Riskit](#6-riskit)
 
-[6.1 Tapaturmat]
+[6.1 Tapaturmat](#61-tapaturmat)
 
-[6.1.1 Riskit]
+[6.1.1 Riskit](#611-riskit)
 
-[6.1.2 Seuraukset]
+[6.1.2 Seuraukset](#612-seuraukset)
 
-[6.1.3 Toimenpiteet ja turvallisuusjärjestelyt]
+[6.1.3 Toimenpiteet ja turvallisuusjärjestelyt](#612-seuraukset)
 
-[6.2 Tulipalovaarat]
+[6.2 Tulipalovaarat](#62-tulipalovaarat)
 
-[6.3 Vesivahingot]
+[6.3 Vesivahingot](#63-vesivahingot)
 
-[6.3.1 Riskit]
+[6.3.1 Riskit](#631-riskit)
 
-[6.3.2 Seuraukset]
+[6.3.2 Seuraukset](#632-seuraukset)
 
-[6.3.3 Toimenpiteet ja turvallisuusjärjestelyt]
+[6.3.3 Toimenpiteet ja turvallisuusjärjestelyt](#633-toimenpiteet-ja-turvallisuusjärjestelyt)
 
-[6.4 Sairauskohtaukset]
+[6.4 Sairauskohtaukset](#64-sairauskohtaukset)
  -
-[6.5 Säteily- tai kaasuvaara]
+[6.5 Säteily- tai kaasuvaara](#65-säteily--tai-kaasuvaara)
 
-[6.5.1 Riskit]
+[6.5.1 Riskit](#651-riskit)
 
-[6.5.2 Seuraukset]
+[6.5.2 Seuraukset](#652-seuraukset)
 
-[6.5.3 Toimenpiteet ja turvallisuusjärjestelyt]
+[6.5.3 Toimenpiteet ja turvallisuusjärjestelyt](#653-toimenpiteet-ja-turvallisuusjärjestelyt)
 
-[6.6 Myrskyvauriot]
+[6.6 Myrskyvauriot](#66-myrskyvauriot)
 
-[6.7 Murrot tai ilkivalta]
+[6.7 Murrot tai ilkivalta](#67-murrot-tai-ilkivalta)
 
-[7 Sanoista tekoihin]
+[7 Sanoista tekoihin](#7-sanoista-tekoihin)
 
-[8 Toimintaohjeita]
+[8 Toimintaohjeita](#8-toimintaohjeita)
 
-[8.1 Avun hälyttäminen]
+[8.1 Avun hälyttäminen](#81-avun-hälyttäminen)
 
-[8.2 Sairauskohtaus tai tapaturma]
+[8.2 Sairauskohtaus tai tapaturma](#82-sairauskohtaus-tai-tapaturma)
 
-[8.3 Tulipalo]
+[8.3 Tulipalo](#83-tulipalo)
 
-[8.4 Toiminta kokoontumispaikalla]
+[8.4 Toiminta kokoontumispaikalla](#84-toiminta-kokoontumispaikalla)
 
-[8.4.1 Varakokoontumispaikka]
+[8.4.1 Varakokoontumispaikka](#841-varakokoontumispaikka)
 
-[8.5 Liikuntarajoitteisen avustaminen hätätilanteessa]
+[8.5 Liikuntarajoitteisen avustaminen hätätilanteessa](#85-liikuntarajoitteisen-avustaminen-hätätilanteessa)
 
-[8.6 Vesivahinko]
+[8.6 Vesivahinko](#86-vesivahinko)
 
-[8.7 Väkivallan uhatessa]
+[8.7 Väkivallan uhatessa](#87-väkivallan-uhatessa)
 
-[8.8 Yleinen vaaramerkki]
+[8.8 Yleinen vaaramerkki](#88-yleinen-vaaramerkki)
 
-[8.9 Kaasuvaara]
+[8.9 Kaasuvaara](#89-----kaasuvaara)
 
-[8.10 Säteilyvaara]
+[8.10 Säteilyvaara](#810-säteilyvaara)
 
-[8.11 Sähkökatkot]
+[8.11 Sähkökatkot](#811-sähkökatkot)
 
-[9 Väestönsuojelu]
+[9 Väestönsuojelu](#9-väestönsuojelu)
 
-[10 Suojaväistö]
+[10 Suojaväistö](#10-suojaväistö)
 
-[11 Säilyttäminen kiinteistössä]
+[11 Säilyttäminen kiinteistössä](#11-säilyttäminen-kiinteistössä)
 
-[12 Liitteet]
+[12 Liitteet](#12-liitteet)
 
-[Liite A Alkusammuttimien käyttöohjeet]
+[Liite A Alkusammuttimien käyttöohjeet](#liite-a-alkusammuttimien-käyttöohjeet)
 
-[Liite B Palovaroitinohje]
+[Liite B Palovaroitinohje](#liite-b-palovaroitinohje)
 
-[Liite C Yleiset ohjeet]
+[Liite C Yleiset ohjeet](#liite-c-yleiset-ohjeet)
 
-[Liite D Kotivara]
+[Liite D Kotivara](#liite-d-kotivara)
 
-[Liite E Tulityöt]
+[Liite E Tulityöt](#liite-e-tulityöt)
 
-[Liite F Pientalon-paloturvallisuusopas-2020]
+[Liite F Pientalon-paloturvallisuusopas-2020](#liite-f-pientalon-paloturvallisuusopas-2020)
 
 # 1 Johdanto
 
@@ -1100,4 +1100,7 @@ Tulitöiden suorittaminen tilapäisellä tulityöpaikalla vaatii aina tulitöide
 
 Tulityölupia myöntää isännöitsijä.
 
-[TAKAISIN](index)
+## Liite F Pientalon-paloturvallisuusopas-2020
+[Pientalon-paloturvallisuusopas-2020](_assets/Pientalon-paloturvallisuusopas-2020_FI_web.pdf)
+
+[TAKAISIN](pelsu)
