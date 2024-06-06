@@ -846,6 +846,8 @@ Lisätietoja vaaran laadusta saat radiosta ja televisiosta. Kaasuvaaraan liittyy
 
  - Viranomaiset ilmoittavat radiossa tai kaiutinautoilla milloin myrkkypilvi on haihtunut. Tuuleta sisätilat sen jälkeen huolellisesti.
 
+ ![Kaasuvaaraohjeet](_assets/kaasuvaara.jpg)
+
 ## 8.10 Säteilyvaara
 
 Säteilytilannetta valvotaan jatkuvasti koko maassa mittareilla. Pienetkin muutokset huomataan heti ja niistä tiedotetaan viipymättä. Säteilyvaarasta annetaan yleinen vaaramerkki.
