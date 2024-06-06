@@ -18,5 +18,5 @@ Tämä pelastussuunnitelma täyttää kaikki pelastuslain ja valtioneuvoston ase
 
 [Toimintaohjeet](Toimintaohjeet)
 
-[Yleisohje](Yleisohje)
+[Yleisohjeet](Yleisohjeet)
 

@@ -1,5 +1,3 @@
-TAKAISIN
-
 As. Oy Piiluvaranta
 
 Pelastussuunnitelma
