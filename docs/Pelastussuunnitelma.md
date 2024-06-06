@@ -224,7 +224,7 @@ Synnyttäjät puh. 05 352 5262
 
 **Kun hätä on suuri, soita hätäkeskukseen 112**
 
-**Lääkeinfo.fi-verkkopalvelu <https://laakeinfo.fi/>**
+**Lääkeinfo.fi-verkkopalvelu [https://laakeinfo.fi/](https://laakeinfo.fi/)**
 
 # 5 Turvallisuusjärjestelyt
 
@@ -570,7 +570,7 @@ Pelastussuunnitelman laatimisen jälkeen on syytä perehdyttää kiinteistössä
 
  - yhteisten talkoiden yhteydessä pidetyt turvallisuuskoulutukset.
 
-Kiinteistön suojelusta vastaavan on hyvä tietää pelastussuunnitelmaan tutustuneiden määrä. Näin hän voi arvioida kiinteistön valmiuksia vaaratilanteisiin reagoimisessa, asukkaiden turvallisuustietoutta ja todeta myös, että suunnitelma ja sen sisältö on saatettu kaikkien asukkaiden tietoisuuteen. Tieto auttaa myös kiinteistön pelastustoiminnan kehittämisessä ja koulutuksen suunnittelussa. Pelastussuunnitelma on myös luettavissa <http://alqoy.fi/Pelastussuunnitelma>
+Kiinteistön suojelusta vastaavan on hyvä tietää pelastussuunnitelmaan tutustuneiden määrä. Näin hän voi arvioida kiinteistön valmiuksia vaaratilanteisiin reagoimisessa, asukkaiden turvallisuustietoutta ja todeta myös, että suunnitelma ja sen sisältö on saatettu kaikkien asukkaiden tietoisuuteen. Tieto auttaa myös kiinteistön pelastustoiminnan kehittämisessä ja koulutuksen suunnittelussa. Pelastussuunnitelma on myös luettavissa [https://alqoy.fi/Pelastussuunnitelma](https://alqoy.fi/Pelastussuunnitelma)
 
 # 8 Toimintaohjeita
 
@@ -870,7 +870,7 @@ Jos on pakko mennä ulos, käytä tiivistä, ihon peittävää asua, esimerkiksi
 
 **Lisäohjeet**
 
-Lisäohjeita saat kaupunkisi pelastusviranomaisilta, tiedotusvälineistä sekä Yleis-radion teksti-TV:n sivulta 867. Tietoa saat myös Säteilyturvakeskuksen Internet-sivuilta osoitteesta <www.stuk.fi> ja pelastustoimen sivuilta <www.pelastustoimi.fi/> turvatietoa.
+Lisäohjeita saat kaupunkisi pelastusviranomaisilta, tiedotusvälineistä sekä Yleis-radion teksti-TV:n sivulta 867. Tietoa saat myös Säteilyturvakeskuksen Internet-sivuilta osoitteesta [www.stuk.fi](www.stuk.fi) ja pelastustoimen sivuilta [www.pelastustoimi.fi](www.pelastustoimi.fi).
 
 **Annosnopeus yli 100 µSv/h**
 
