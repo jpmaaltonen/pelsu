@@ -6,7 +6,7 @@ Laadittu 29.10.2013
 
 Laatija Jukka Aaltonen
 
-Viimeksi päivitetty 6.6.2024
+Viimeksi päivitetty 18.11.2024
 
 Päivittäjä Matias Aaltonen
 
@@ -70,6 +70,8 @@ Tässä pelastussuunnitelmassa on 42 sivua.
 
 [6.7 Murrot tai ilkivalta](#67-murrot-tai-ilkivalta)
 
+[6.8 Varautuminen](#68-varautuminen)
+
 [7 Sanoista tekoihin](#7-sanoista-tekoihin)
 
 [8 Toimintaohjeita](#8-toimintaohjeita)
@@ -122,7 +124,7 @@ Tässä pelastussuunnitelmassa on 42 sivua.
 
 Turvallisuus on jokaisen oikeus ja velvollisuus. Jokaisella meistä on vastuu siitä, ettemme omalla toiminnallamme vaaranna omaa tai toisten turvallisuutta. Turvallisuus muodostuu muun muassa ihmisten asenteista, arvostuksista, tiedoista, taidoista ja tahdoista. On tärkeä muistaa, että turvallisuustyötä tehdään aina yhteistyössä.
 
-Tutustut parhaillaan kiinteistösi pelastussuunnitelmaan. Tämä pelastussuunnitelma antaa sinulle ohjeita vaaratilanteisiin varautumiseen ja niistä selviytymiseen. Luettuasi pelastussuunnitelman voit kuitata sen luetuksi sähköisesti. Näin kiinteistösi pelastussuunnitelmasta vastaava henkilö tietää sinun tutustuneen pelastussuunnitelmaan.
+Tutustut parhaillaan kiinteistösi pelastussuunnitelmaan. Tämä pelastussuunnitelma antaa sinulle ohjeita vaaratilanteisiin varautumiseen ja niistä selviytymiseen.
 
 Pelastussuunnitelma ja sen toimintaohjeet on lain mukaan pidettävä ajan tasalla. Muuttuneet tiedot tulee päivittää pelastussuunnitelmaan viipymättä. Pelastussuunnitelman päivitys tapahtuu sähköisesti pelastussuunnitelman ylläpitäjän toimesta.
 
@@ -551,6 +553,10 @@ Toimenpiteet ja turvallisuusjärjestelyt
  - Arvoesineiden merkitseminen ja kuvaaminen.
 
  - Graffitien ja muiden töhryjen puhdistus viipymättä.
+
+# 6.8 Varautuminen
+ - [Häiriö- ja kriisitilanteisiin varautuminen (suomi.fi)](https://www.suomi.fi/oppaat/varautuminen)
+ - [Varautunut pärjää paremmin](_assets/varautunut-parjaa-paremmin.pdf)
 
 # 7 Sanoista tekoihin
 

@@ -4,7 +4,7 @@ Laadittu 29.10.2013
 
 Laatija Jukka Aaltonen
 
-Viimeksi päivitetty 6.6.2024
+Viimeksi päivitetty 18.11.2024
 
 Päivittäjä Matias Aaltonen
 
@@ -19,4 +19,6 @@ Tämä pelastussuunnitelma täyttää kaikki pelastuslain ja valtioneuvoston ase
 [Toimintaohjeet](Toimintaohjeet)
 
 [Yleisohjeet](Yleisohjeet)
+
+[Varautuminen](_assets/varautunut-parjaa-paremmin.pdf)
 

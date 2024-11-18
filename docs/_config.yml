@@ -34,6 +34,7 @@ mainpage:
   asukasohje: Asukasohjeet
   toimintaohje: Toimintaohjeet
   yleisohje: Yleisohjeet
+  varautuminen: _assets/varautunut-parjaa-paremmin.pdf
 
 # Build settings
 theme: jekyll-theme-cayman
@@ -41,7 +42,7 @@ plugins:
   - jekyll-feed
 
 include:
-  - _posts
+#  - _posts
   - _assets
 # Exclude from processing.
 # The following items will not be processed, by default.
