@@ -6,7 +6,7 @@ Laadittu 29.10.2013
 
 Laatija Jukka Aaltonen
 
-Viimeksi päivitetty 18.11.2024
+Viimeksi päivitetty 13.02.2025
 
 Päivittäjä Matias Aaltonen
 
@@ -183,8 +183,13 @@ puh. 040 501 4349
 
 Isännöitsijä
 ```
-Jukka Aaltonen
-puh. 040 503 0142
+EK Isännöinti Oy
+
+Silvennoinen Ilpo
+
+ilpo.silvennoinen(at)gmail.com
+
+044 366 6999
 ```
 
 ## 3.3     Muut tiedot
